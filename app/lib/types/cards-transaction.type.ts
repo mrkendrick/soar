@@ -1,4 +1,4 @@
-export type ResponseObject = {
+export type CardsTransactionsResponseObject = {
 	success: boolean;
 	data: {
 		recent_transactions: Transaction[];

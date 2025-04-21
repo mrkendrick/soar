@@ -1,4 +1,4 @@
-export type ResponseObject = {
+export type StatsResponseObject = {
 	success: boolean;
 	data: {
 		expenses: Expense[];
