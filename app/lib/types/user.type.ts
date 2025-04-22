@@ -1,9 +1,6 @@
-export type UsersResponseObject = {
+export type UserResponseObject = {
 	success: boolean;
-	data: {
-		user: User;
-		quick_users: QuickUser[];
-	};
+	data: User;
 };
 
 export type User = {
@@ -16,12 +13,5 @@ export type User = {
 	city: string;
 	postal_code: string;
 	country: string;
-	profile_picture: string;
-};
-
-export type QuickUser = {
-	id: string;
-	name: string;
-	position: string;
 	profile_picture: string;
 };

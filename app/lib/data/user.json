@@ -1,0 +1,15 @@
+{
+	"success": true,
+	"data": {
+		"id": "0196581e-62af-7c9f-a8be-4d4a417b02b8",
+		"name": "Charlene Reed",
+		"username": "charlene_reed",
+		"email": "charlenereed@gmail.com",
+		"dob": "25 January 1990",
+		"address": "San Jose, California, USA",
+		"city": "San Jose",
+		"postal_code": "45962",
+		"country": "USA",
+		"profile_picture": "/assets/images/user.png"
+	}
+}

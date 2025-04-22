@@ -1,0 +1,47 @@
+{
+	"success": true,
+	"data": [
+		{
+			"id": "01965848-4cb6-7e13-bc04-7829fca01065",
+			"weekday": "Sat",
+			"deposit": 240,
+			"withdraw": 480
+		},
+		{
+			"id": "019658df-5544-7853-81cd-dfaff5fb134c",
+			"weekday": "Sun",
+			"deposit": 130,
+			"withdraw": 350
+		},
+		{
+			"id": "019658e1-be90-72e9-b34d-6293051164fd",
+			"weekday": "Mon",
+			"deposit": 270,
+			"withdraw": 320
+		},
+		{
+			"id": "019658e2-c2ef-751d-bc76-9e84a5bb7ddc",
+			"weekday": "Tue",
+			"deposit": 370,
+			"withdraw": 480
+		},
+		{
+			"id": "019658e3-7783-77e0-92d9-3e6152058a85",
+			"weekday": "Wed",
+			"deposit": 240,
+			"withdraw": 150
+		},
+		{
+			"id": "019658e4-8883-7792-930d-64dec0bc23e0",
+			"weekday": "Thu",
+			"deposit": 247,
+			"withdraw": 390
+		},
+		{
+			"id": "019658e5-fbb5-7602-9507-dc6eb18aea7c",
+			"weekday": "Fri",
+			"deposit": 340,
+			"withdraw": 400
+		}
+	]
+}

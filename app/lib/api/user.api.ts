@@ -1,5 +1,4 @@
-import type { UsersResponseObject } from "../types/users.type";
+import type { UserResponseObject } from "../types/user.type";
 import { api } from "./api.config";
 
-export const getUsers = async () =>
-	await api.get<UsersResponseObject>("/users");
+export const getUser = async () => await api.get<UserResponseObject>("/user");
