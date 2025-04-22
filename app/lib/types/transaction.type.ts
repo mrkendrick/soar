@@ -9,4 +9,5 @@ export type Transaction = {
 	description: string;
 	type: "debit" | "credit";
 	date: string;
+	amount: number;
 };

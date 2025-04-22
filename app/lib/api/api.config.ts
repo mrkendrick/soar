@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const baseUrl = "https://soartask.free.beeceptor.com/api/v1";
+const baseUrl =
+	"https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data";
 
 const headers = {
 	"Content-Type": "application/json; charset=utf-8",
