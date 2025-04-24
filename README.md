@@ -82,6 +82,16 @@ Make sure to deploy the output of `npm run build`
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
 
+## API Documentation
+
+- GET User => https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data/user.json
+- GET Quick Users => https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data/quick-users.json
+- GET Cards => https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data/cards.json
+- GET Expense Stats => https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data/expenses.json
+- GET Balance History => https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data/balance-history.json
+- GET Weekly Activities => https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data/weekly-activities.json
+- GET Transactions => https://raw.githubusercontent.com/mrkendrick/soar/refs/heads/dev/app/lib/data/transactions.json
+
 ---
 
 Built with ❤️ using React Router.
