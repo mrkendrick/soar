@@ -1,0 +1,21 @@
+{
+	"success": true,
+	"data": [
+		{
+			"id": "019657fb-8ce7-72e3-b045-89a8fb0a8b99",
+			"card_holder": "Eddy Cusuma",
+			"balance": 5768,
+			"valid_through": "12/22",
+			"card_number": "4375 3936 0248 9666",
+			"type": "master"
+		},
+		{
+			"id": "01965812-e08b-7915-8646-486120f63150",
+			"card_holder": "Eddy Cusuma",
+			"balance": 238,
+			"valid_through": "03/24",
+			"card_number": "4603 6505 2146 0357 ",
+			"type": "master"
+		}
+	]
+}

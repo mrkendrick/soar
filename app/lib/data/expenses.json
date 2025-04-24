@@ -1,0 +1,25 @@
+{
+	"success": true,
+	"data": [
+		{
+			"id": "01965833-d467-7820-ac10-021a6071080f",
+			"name": "Entertainment",
+			"value": 30
+		},
+		{
+			"id": "01965835-3f7c-7a2f-ada1-e59c0ca309e7",
+			"name": "Bill Expense",
+			"value": 15
+		},
+		{
+			"id": "01965836-126b-71dd-9fa7-b01880f9e7c5",
+			"name": "Others",
+			"value": 35
+		},
+		{
+			"id": "01965836-9d81-7691-a77f-ee9aca0b948e",
+			"name": "Investment",
+			"value": 20
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"success": true,
+	"data": [
+		{
+			"id": "01965815-c64b-7d44-b468-a56e2530fec2",
+			"mode": "card",
+			"description": "Deposit from my card",
+			"type": "debit",
+			"date": "28 January 2021",
+			"amount": 850
+		},
+		{
+			"id": "01965818-a109-77fd-8eb0-fd52bad79bac",
+			"mode": "paypal",
+			"description": "Deposit paypal",
+			"type": "credit",
+			"date": "25 January 2021",
+			"amount": 2500
+		},
+		{
+			"id": "01965819-4998-702e-9fcb-c39baae0de85",
+			"mode": "transfer",
+			"description": "Jemi Wilson",
+			"type": "credit",
+			"date": "21 January 2021",
+			"amount": 5400
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"success": true,
+	"data": [
+		{
+			"id": "0196582d-4da9-780b-b5ac-4e067e18826f",
+			"name": "Livia Bator",
+			"position": "CEO",
+			"profile_picture": "/assets/images/livia.png"
+		},
+		{
+			"id": "0196582d-37d2-7d4a-9363-3f0d1aeb9eea",
+			"name": "Randy Press",
+			"position": "Director",
+			"profile_picture": "/assets/images/randy.png"
+		},
+		{
+			"id": "0196582d-a3ac-78e9-b6be-1dcb1c509cf0",
+			"name": "Workman",
+			"position": "Designer",
+			"profile_picture": "/assets/images/workman.png"
+		}
+	]
+}
