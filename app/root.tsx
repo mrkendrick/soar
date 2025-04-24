@@ -13,6 +13,8 @@ import Sidebar from "./components/sidebar";
 import { store } from "./store";
 import Topbar from "./components/topbar";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import Chart from "chart.js/auto";
+import { ArcElement, CategoryScale, Legend, Tooltip } from "chart.js";
 
 export const links: Route.LinksFunction = () => [
 	{ rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -26,6 +28,8 @@ export const links: Route.LinksFunction = () => [
 		href: "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
 	},
 ];
+
+Chart.register(ArcElement, Tooltip, Legend, CategoryScale);
 
 const queryClient = new QueryClient();
 

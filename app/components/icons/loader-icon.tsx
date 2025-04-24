@@ -10,11 +10,11 @@ const LoaderIcon = () => {
 					fy=".3125"
 					gradientTransform="scale(1.5)"
 				>
-					<stop offset="0" stop-color="#000000" />
-					<stop offset=".3" stop-color="#000000" stop-opacity=".9" />
-					<stop offset=".6" stop-color="#000000" stop-opacity=".6" />
-					<stop offset=".8" stop-color="#000000" stop-opacity=".3" />
-					<stop offset="1" stop-color="#000000" stop-opacity="0" />
+					<stop offset="0" stopColor="#000000" />
+					<stop offset=".3" stopColor="#000000" stopOpacity=".9" />
+					<stop offset=".6" stopColor="#000000" stopOpacity=".6" />
+					<stop offset=".8" stopColor="#000000" stopOpacity=".3" />
+					<stop offset="1" stopColor="#000000" stopOpacity="0" />
 				</radialGradient>
 				<circle
 					transform-origin="center"
@@ -44,8 +44,8 @@ const LoaderIcon = () => {
 					fill="none"
 					opacity=".2"
 					stroke="#000000"
-					stroke-width="17"
-					stroke-linecap="round"
+					strokeWidth="17"
+					strokeLinecap="round"
 					cx="100"
 					cy="100"
 					r="70"

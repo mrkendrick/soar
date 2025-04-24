@@ -19,7 +19,7 @@ const CardItem = ({ isDark, card }: Props) => {
 					: "bg-white text-foreground border"
 			} w-full flex flex-col items-stretch justify-stretch`}
 		>
-			<div className="grow flex flex-col p-8 pb-12 space-y-8 overflow-hidden">
+			<div className="grow flex flex-col p-8 pb-10 space-y-5 overflow-hidden">
 				<div className="flex items-center justify-between">
 					<div className="flex flex-col">
 						<span className="text-sm">Balance</span>
@@ -57,7 +57,7 @@ const CardItem = ({ isDark, card }: Props) => {
 			</div>
 
 			<div
-				className={`overflow-hidden rounded-b-4xl px-8 py-8 flex items-center justify-between ${
+				className={`overflow-hidden rounded-b-4xl px-8 py-5 flex items-center justify-between ${
 					isDark
 						? "bg-linear-to-r from-[#686777] to-[#070708]"
 						: "bg-white border-t"
